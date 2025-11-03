@@ -30,7 +30,7 @@
 - [DeepLabV3](https://github.com/tensorflow/models/tree/master/research/deeplab) - A deep learning model for semantic image segmentation.
 - [YOLO (You Only Look Once)](https://github.com/AlexeyAB/darknet) - A real-time object detection system.
 - [MMDetection](https://github.com/open-mmlab/mmdetection) - An open-source object detection toolbox based on PyTorch.
-- [Savant](https://github.com/insight-platform/Savant) - high-performance computer vision framework for data center and edge running on the Nvidia stack.
+- [Savant](https://github.com/insight-platform/Savant) - A high-performance computer vision framework for data center and edge running on the Nvidia stack.
 
 ## Tools and Applications
 

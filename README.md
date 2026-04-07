@@ -40,7 +40,7 @@
 ## Tools and Applications
 
 - [LabelImg](https://github.com/tzutalin/labelImg) - An open-source image annotation tool for labeling datasets.
-- [LightlyStudio](https://github.com/lightly-ai/lightly-studio) - An open source tool to curate, annotate, and manage vision datasets (images and videos), with embedding-based auto-selection and auto-labeling support.
+- [LightlyStudio](https://github.com/lightly-ai/lightly-studio) - Open source tool for curating, annotating, and managing vision datasets, with embedding-based selection and auto-labeling.
 - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - A real-time multi-person detection library for human pose estimation.
 - [VGG Image Annotator (VIA)](https://www.robots.ox.ac.uk/~vgg/software/via/) - A lightweight tool for manual image annotation.
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - A tool for creating deepfakes using face swapping.

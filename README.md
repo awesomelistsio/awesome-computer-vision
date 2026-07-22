@@ -30,6 +30,7 @@
 - [OpenCV](https://opencv.org/) - An open-source library providing computer vision and machine learning algorithms for image and video analysis.
 - [Detectron2](https://github.com/facebookresearch/detectron2) - A high-performance object detection library developed by Facebook AI Research.
 - [Dlib](http://dlib.net/) - A modern C++ toolkit with machine learning algorithms and tools for computer vision.
+- [light-ocr](https://github.com/arcships/light-ocr) - A fast, offline OCR library for Node.js and C++ using PP-OCRv6 with bundled cross-platform runtimes.
 - [Scikit-Image](https://scikit-image.org/) - A Python library for image processing, built on top of SciPy.
 - [Mediapipe](https://mediapipe.dev/) - A cross-platform framework by Google for building multimodal ML solutions, including face detection and pose estimation.
 - [DeepLabV3](https://github.com/tensorflow/models/tree/master/research/deeplab) - A deep learning model for semantic image segmentation.

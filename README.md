@@ -64,6 +64,7 @@
 
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation (2017)](https://arxiv.org/abs/1612.00593) - A deep learning model for 3D point cloud processing.
 - [NeRF: Neural Radiance Fields for View Synthesis (2020)](https://arxiv.org/abs/2003.08934) - A model for representing 3D scenes using neural networks.
+- [Retri3D: 3D Neural Graphics Representation Retrieval (2025)](https://openreview.net/forum?id=q3EbOXb4y1) - Retrieves pretrained NeRF and 3D Gaussian Splatting representations without access to their original training data.
 - [Open3D](http://www.open3d.org/) - An open-source library for 3D data processing and visualization.
 - [Colmap](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline.
 
